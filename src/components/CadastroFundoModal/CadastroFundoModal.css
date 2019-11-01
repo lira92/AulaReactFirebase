@@ -1,0 +1,40 @@
+.ant-modal-content {
+  border-radius: 0;
+}
+
+.ant-modal-header {
+  border-bottom: 0;
+}
+
+.ant-modal-footer {
+  border-top: 0;
+}
+
+.ant-form-item {
+  margin-bottom: 14px;
+}
+
+.ant-input-number-handler-wrap {
+  display: none;
+}
+
+.ant-input, .ant-input-number {
+  border: 0;
+  border-bottom: 2px solid #001AA0;
+  border-radius: 0;
+  padding-left: 0;
+}
+
+.ant-input-number-input-wrap input  {
+  padding-left: 0;
+}
+
+.ant-input:focus,
+.ant-input-number-focused {
+  box-shadow: none;
+  outline: 0;
+}
+
+.ant-input-number, .ant-calendar-picker {
+  width: 100%;
+}
