@@ -6,7 +6,7 @@ Aplicação para criar fundos de capital (objetivos financeiros) utilizando Reac
 
 ![Home](/screenshots/home.png?raw=true "Home")
 
-![Adicionar ou editar fundo](/screenshots/editar.png?raw=true "Adicionar ou editar fundo")
+![Adicionar ou editar fundo](/screenshots/editar.PNG?raw=true "Adicionar ou editar fundo")
 
 ### `npm start`
 
